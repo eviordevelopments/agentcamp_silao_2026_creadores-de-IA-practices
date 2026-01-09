@@ -439,6 +439,6 @@ LISTO PARA:
 ---
 
 **Documento versión:** 2.0
-**Última actualización:** [Omitida - Sin fechas]
+**Última actualización:**
 **Formato:** Guía maestro + Índice de recursos
 
